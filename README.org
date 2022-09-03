@@ -1,0 +1,5 @@
+#+title: Use Gnome Pomodoro from within Emacs
+
+[[https://gnomepomodoro.org/][A Pomodoro Timer for GNOME]]
+
+FIXME
